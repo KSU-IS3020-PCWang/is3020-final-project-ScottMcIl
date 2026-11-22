@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Scott McIlhany
+- GitHub username: ScottMcIl
+- Project title: Inventory Maintenance Program
+- Application purpose: This application helps a store track inventory without having to count and record it by hand. Users can see inventory, add new items, record sales and deliveries, search for an item, and generate a low-stock report. All inventory is saved to a CSV file so it loads again the next time the program runs.
 
 ## How to Run the Application
 
